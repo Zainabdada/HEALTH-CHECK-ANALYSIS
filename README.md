@@ -1,5 +1,6 @@
 # HEALTH-CHECK-ANALYSIS
 This report conducts a health check of gender equity in terms of salary. Given one key question and the use of data storytelling to present the findings, insights and recommendations.
+
 ### Overview 
 This analysis is vital for identifying potential salary disparities and promoting gender equality in the
 workplace.
